@@ -1,6 +1,6 @@
-title: QSIM
+title: QGSIM
 description: Quality Similarity Clustering Algorithm
-google_analytics: "QSIM \"Clustering Algorithm\" \"Quality Similarity\" Similarity "
+google_analytics: "QGSIM \"Clustering Algorithm\" \"Quality Similarity\" Similarity "
 show_downloads: true
 theme: jekyll-theme-slate
 
