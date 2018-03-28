@@ -2,5 +2,4 @@ QSIM.jar
 bin
 *.class
 /bin/
-/bin/
 junit
